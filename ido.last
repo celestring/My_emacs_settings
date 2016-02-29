@@ -1,0 +1,39 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/string/Desktop/Daminfomation/ADDU/" . "ADDU/")
+ ("/Users/string/Desktop/Daminfomation/" . "ADDU/")
+ ("/Users/string/Desktop/" . "Daminfomation/")
+ ("/Users/string/" . "Desktop/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/string/Downloads/csharp-mode-master/test-files/"
+ "/Users/string/Desktop/Daminfomation/ADDU/ADDU/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "xbuild-warning.txt"
+ "ADDU.INP"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/string/Downloads/csharp-mode-master/test-files/" (21813 52700 0 0) "xbuild-warning.txt" "xbuild-error.txt" "msbuild-warning.txt" "msbuild-error.txt" "msbuild-concurrent-warning.txt" "msbuild-concurrent-error.txt" "fontification-test.cs" "../" "./")
+
+ ("/Users/string/Desktop/Daminfomation/ADDU/ADDU/" (21572 30817 0 0) "USE.ASC" "UP.OUT" "TYPE.ASC" "Sta.png" "Sta.PLT" "SLOPE.ASC" "RAIN_STA_OBS.INP" "RAIN_STA_KPPM.INP" "RAIN_OBS.INP" "Obs_WSL.INF" "Obs_Inf.INF" "Obs_Dis.INF" "Met_HR.DAT" "Met_DAY.DAT" "Initial_flow.INP" "img.jpg" "DIR_Sta_CHECK.lay" "DIR.ASC" "DEP.ASC" "DEM400.ASC" "DEM100.ASC" "CHECK_DIRECTION.PLT" "BLC_file.tmp" "ADDU.INP" "../" "./")
+
+ ("/Users/string/Desktop/Daminfomation/ADDU/" (21572 31064 0 0) "WQ.INP" "Thumbs.db" "SM_OB.OUT" "K-DRUM.INF" "ADDU.png" "ADDU/" ".DS_Store" "../" "./")
+
+ ("/Users/string/Desktop/Daminfomation/" (21572 30817 0 0) "YDDU.zip" "SYDU.zip" "SJDU.zip" "NGDU.zip" "MYDU.zip" "K-DRUM.LOG" "JHDU.zip" "JADU.zip" "IHDU.zip" "HSDU.zip" "HCDU.zip" "GWDU.zip" "DCDU.zip" "DamInfo.inp" "CJDU.zip" "BRDU.zip" "BADU.zip" "ADDU.zip" "ADDU/" ".DS_Store" "../" "./")
+
+ ("/Users/string/Desktop/" (21641 2606 0 0) "롯시 영문.pages/" "교회/" "Programming Source Codes Files" "Program Infomation" "Daminfomation/" "[포토샵 강좌]사진이 확 달라지는 포토샵 필수 보정법 10가지 _ 네이버 블로그.pdf" ".localized" ".DS_Store" "../" "./")
+
+ ("/Users/string/" (21641 42108 0 0) "Public/" "Pictures/" "Music/" "Movies/" "Library/" "IDLWorkspace84/" "Downloads/" "Documents/" "Desktop/" "Applications/" ".Xauthority" ".viminfo" ".Trash/" ".swt/" ".ssh/" ".serverauth.1814" ".rnd" ".python27_compiled/" ".profile~" ".profile" ".mysql_history" ".matplotlib/" ".idlerc/" ".idl/" ".hgignore_global" ".gitignore_global" ".gitconfig" ".flexlmrc" ".enstaller4rc" ".emacs~" ".emacs.d/" ".emacs" ".DS_Store" ".cups/" ".CFUserTextEncoding" ".cache/" ".bash_profile" ".bash_history" ".adobe/" "#.bash#" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

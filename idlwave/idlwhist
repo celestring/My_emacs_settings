@@ -1,0 +1,240 @@
+.reset
+.compile espreadspectrum
+resolve_all
+espreadspectrum, filename='1740456p.fits'
+exit
+.reset
+espreadspectrum, filename='1740456p.fits'
+outn
+outw
+dd
+outwn
+objn
+outn
+outwn
+header
+exit
+.reset
+espreadspectrum, filename='1738734p.fits'
+.continue
+exit
+espreadspectrum, filename='1738734p.fits'
+.continue
+exit
+.reset
+espreadspectrum, filename='1738734p.fits'
+a=file_search(*.fits)
+a=file_search('*.fits')
+a
+exit
+esrun
+exit
+.reset
+esrun
+.reset
+esrun
+exit
+.reset
+second_of_year
+exit
+.reset
+make_daily_list 2015 04 01
+make_daily_list 2015, 04, 01
+make_daily_list, 2015, 04, 01
+.reset
+make_daily_list, 2015, 04, 01
+exit
+make_daily_list, 2015, 04, 02
+make_daily_list, 2015, 04, 03
+exit
+.reset
+julfor
+start_julday
+caldat, start_julday, m, d, y
+n
+m
+d
+y
+.reset
+julfor
+.reset
+julfor
+.reset
+julfor
+.reset
+julfor
+.reset
+julfor
+.reset
+cases_run
+.reset
+cases_run
+.reset
+cases_run
+.c
+.reset
+cases_run
+.reset
+cases_run
+.reset
+cases_run
+print, xdate, format='(C(CYI4.4, CMoI2.2, CDI2.2, CHI2.2))'
+print, xdate+0.5, format='(C(CYI4.4, CMoI2.2, CDI2.2, CHI2.2))'
+print, ksttickval, format='(C(CYI4.4, CMoI2.2, CDI2.2, CHI2.2))'
+print, ksttickval+0.5, format='(C(CYI4.4, CMoI2.2, CDI2.2, CHI2.2))'
+.reset
+cases_run
+       plot_serial=plot(scint_jtime, scint_jtime*0, xrange=[xdate, xdate+1.5], yrange=[yrange_max, yrange_min], $
+            dimension=[900,700], ytitle=ytitle_name, $
+            xtickinterval=1d/12, xtickvalues=ksttickval, xminor=2, font_size=10, /nodata, /current)
+ 
+.reset
+cases_monitoring_system
+.reset
+cases_run
+.reset
+cases_run
+loadct, 39]
+loadct, 39
+tvlct, r,g,b, /get
+    ct_arr=bytarr(3,n_elements(r))
+
+for ct_r=0, n_elements(r)-1 do ct_arr[0, ct_r]=r[ct_r]
+for ct_g=0, n_elements(g)-1 do ct_arr[0, ct_g]=g[ct_g]
+for ct_b=0, n_elements(b)-1 do ct_arr[0, ct_b]=b[ct_b]
+save, filename='ct_arr.sav', ct_arr
+.reset
+restore, 'ct_arr.sav'
+help, ct_arr
+.reset
+cases_run
+.reset
+cases_run
+.reset
+.compile cases_run
+resolve_all
+save, filename='cases_run.sav', /routines
+.reset
+cases_run
+soure idl_setup
+source idl_setup
+.reset
+.compile igrf_tsy_geomag_ascii
+resolve_all
+save, filename='igrf_tsy_geomag_ascii.sav', /routines
+.reset
+convert_discharge_hgdu
+.reset
+convert_discharge_hgdu
+waterwhere_high
+waterwhere_high[0]
+waterwhere_low[0]
+waterwhere_low
+waterwhere_low[-1]
+.reset
+convert_discharge_hgdu
+diff_wsl
+wl_arr[waterwhere_high]-wl_arr[waterwhere_low]
+wl_arr
+waterwhere_high
+waterwhere_high[-1]
+.reset
+convert_discharge_hgdu
+diff_wsl
+diff_count
+.reset
+convert_discharge_hgdu
+diff_count
+diff_wsl
+.reset
+convert_discharge_hgdu
+diff_count
+diff_wsl
+.reset
+convert_discharge_hgdu
+diff_count
+diff_wsl
+.reset
+convert_discharge_hgdu
+interpol_arr
+convert_discharge_hgdu
+.reset
+convert_discharge_hgdu
+interpol_arr
+temp_waterlv
+.reset
+convert_discharge_hgdu
+temp_waterlv
+wl_arr[waterwhere_high[0]]
+wl_arr[waterwhere_high[0]]-waterlv
+.reset
+convert_discharge_hgdu
+c_waterlv
+1/0.01
+0.4/0.01
+temp_waterlv
+fix(temp_waterlv)
+fix(temp_waterlv/0.01)
+print, fix(temp_waterlv(format='(I2.2)'/0.01)
+temp_waterlv
+temp_waterlv+0.01
+float(round(x*10.))/10.
+float(round(temp_waterlv*10.))/10.
+float(round(4.13*10.))/10.
+round(4.1)
+round(temp_waterlv/0.01)
+.reset
+convert_discharge_hgdu
+.reset
+convert_discharge_hgdu
+.reset
+convert_discharge_hgdu
+.reset
+convert_discharge_hgdu
+.reset
+convert_discharge_hgdu
+.reset
+convert_discharge_hgdu
+.reset
+convert_discharge_hgdu
+interpol_arr
+c_waterlv
+temp_waterlc
+temp_waterlv
+temp_waterlv=wl_arr[waterwhere_high[0]]-waterlv
+temp_waterlv
+c_waterlv=round(temp_waterlv/0.01)
+c_waterlv
+temp_waterlv/0.01
+.reset
+convert_discharge_hgdu
+temp_waterlv
+.reset
+convert_discharge_hgdu
+.reset
+convert_discharge_hgdu
+interpol_arr
+.reset
+convert_discharge_hgdu
+.reset
+convert_discharge_hgdu
+.reset
+convert_discharge_hgdu
+mg_mysql_init()
+d=mg_mysql_init()
+d=mgdbmysql()
+d=mgdbmysq__define
+mgdbmysq__define
+.rest
+.reset
+mgdbmysql__define
+d=mgdbmysql()
+.reset
+galaxy_spiral_arms
+o
+i
+imax
+.reset
+galaxy_spiral_arms
+.reset
+galaxy_spiral_arms

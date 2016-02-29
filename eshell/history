@@ -1,0 +1,128 @@
+cat test.txt 
+ls
+ls -la
+g++ -W -Wall -O2 -o extract_of_um extract_of_um.cpp 
+./extract_of_um 
+ll
+ls -la
+g++ -W -Wall -O2 -o extract_of_um extract_of_um.cpp 
+g++ -W -Wall -O2 -o extract_of_um extract_of_um.cpp 
+./extract_of_um 
+ll
+ls -la
+emacs test.txt 
+cat test.txt 
+rm test.txt
+ls
+ls -la
+./extract_of_um 
+ls
+ls -la
+ls
+python extract_of_um.py G03K_PRCP.2014040100_2014040100.dat
+python extract_of_um.py G03K_PRCP.2014040100_2014040100.dat
+python extract_of_um.py G03K_PRCP.2014040100_2014040100.dat
+python extract_of_um.py G03K_PRCP.2014040100_2014040100.dat
+python extract_of_um.py G03K_PRCP.2014040100_2014040100.dat
+python extract_of_um.py G03K_PRCP.2014040100_2014040100.dat
+python extract_of_um.py G03K_PRCP.2014040100_2014040100.dat
+python extract_of_um.py G03K_PRCP.2014040100_2014040100.dat
+python extract_of_um.py G03K_PRCP.2014040100_2014040100.dat
+python extract_of_um.py G03K_PRCP.2014040100_2014040100.dat
+python extract_of_um.py G03K_PRCP.2014040100_2014040100.dat
+python extract_of_um.py G03K_PRCP.2014040100_2014040100.dat
+python extract_of_um.py G03K_PRCP.2014040100_2014040100.dat
+python extract_of_um.py G03K_PRCP.2014040100_2014040100.dat
+python extract_of_um.py G03K_PRCP.2014040100_2014040100.dat
+python extract_of_um.py G03K_PRCP.2014040100_2014040100.dat
+python extract_of_um.py G03K_PRCP.2014040100_2014040100.dat
+python extract_of_um.py G03K_PRCP.2014040100_2014040100.dat
+python extract_of_um.py G03K_PRCP.2014040100_2014040100.dat
+python extract_of_um.py
+python extract_of_um.py 1
+python extract_of_um.py 11
+python extract_of_um.py 11.1
+python extract_of_um.py G03K_PRCP.2014040100_2014040100.dat
+ls
+python extract_of_um.py G03K_PRCP.2014040100_2014040100.dat
+python extract_of_um.py G03K_PRCP.2014040100_2014040100.dat
+python extract_of_um.py G03K_PRCP.2014040100_2014040100.dat
+python extract_of_um.py G03K_PRCP.2014040100_2014040100.dat
+python extract_of_um.py G03K_PRCP.2014040100_2014040100.dat
+python extract_of_um.py G03K_PRCP.2014040100_2014040100.dat
+python extract_of_um.py G03K_PRCP.2014040100_2014040100.dat
+python extract_of_um.py G03K_PRCP.2014040100_2014040100.dat
+python extract_of_um.py G03K_PRCP.2014040100_2014040100.dat
+python extract_of_um.py G03K_PRCP.2014040100_2014040100.dat
+python extract_of_um.py G03K_PRCP.2014040100_2014040100.dat
+python extract_of_um.py G03K_PRCP.2014040100_2014040100.dat
+exit
+python extract_of_um.py G03K_PRCP.2014040100_2014040100.dat
+python extract_of_um.py G03K_PRCP.2014040100_2014040100.dat
+python extract_of_um.py G03K_PRCP.2014040100_2014040100.dat
+python extract_of_um.py G03K_PRCP.2014040100_2014040100.dat
+python extract_of_um.py G03K_PRCP.2014040100_2014040100.dat
+python extract_of_um.py G03K_PRCP.2014040100_2014040100.dat
+python extract_of_um.py G03K_PRCP.2014040100_2014040100.dat
+python extract_of_um.py G03K_PRCP.2014040100_2014040100.dat
+python extract_of_um.py G03K_PRCP.2014040100_2014040100.dat
+python extract_of_um.py G03K_PRCP.2014040100_2014040100.dat
+python extract_of_um.py G03K_PRCP.2014040100_2014040100.dat
+python extract_of_um.py G03K_PRCP.2014040100_2014040100.dat
+python extract_of_um.py G03K_PRCP.2014040100_2014040100.dat
+python extract_of_um.py G03K_PRCP.2014040100_2014040100.dat
+python extract_of_um.py G03K_PRCP.2014040100_2014040100.dat
+python extract_of_um.py G03K_PRCP.2014040100_2014040100.dat
+python extract_of_um.py G03K_PRCP.2014040100_2014040100.dat
+python extract_of_um.py G03K_PRCP.2014040100_2014040100.dat
+ls
+cd ..
+cd 150911
+python extract_of_um.py G03K_PRCP.2014040100_2014040100.dat
+ipython
+;s
+ls
+ll
+ls -la
+./extract_of_um G03K_PRCP.2014040100_2014040100.dat
+ll
+ls -la
+g++ -W -Wall -o extract_of_um extract_of_um.cpp 
+g++ -W -Wall -o extract_of_um extract_of_um.cpp 
+g++ -W -Wall -o extract_of_um extract_of_um.cpp 
+g++ -W -Wall -o extract_of_um extract_of_um.cpp 
+ls
+python G03K_PRCP.2014040100_2014040100.dat
+python extract_of_um.py  G03K_PRCP.2014040100_2014040100.dat
+python extract_of_um.py  G03K_PRCP.2014040100_2014040100.dat
+python extract_of_um.py  G03K_PRCP.2014040100_2014040100.dat
+python extract_of_um.py  G03K_PRCP.2014040100_2014040100.dat
+python extract_of_um.py  G03K_PRCP.2014040100_2014040100.dat
+python extract_of_um.py  G03K_PRCP.2014040100_2014040100.dat
+python extract_of_um.py  G03K_PRCP.2014040100_2014040100.dat
+ls
+cd ..
+ls
+cd ..
+cd 150911
+ls
+cd 150901
+ls
+g++ -W -Wall -o extract_of_um extract_of_um.cpp 
+ls
+cd Documents/
+ls
+cd programming/
+ls
+sudo apachectl restart
+sudo apachectl restart
+ipython
+./a.sh 
+exit
+./a.sh 
+./a.sh 
+./a.sh 
+./a.sh 
+./a.sh 
+./a.sh 
+exit
